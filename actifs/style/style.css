@@ -219,12 +219,12 @@ hr {
     }
 
     .cache{
-        margin: 10px;
-    display: flex;
+        border: 2px solid #2C86D2;
+border-radius: 50px;
+     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-radius: 50px;
-    border: 3px solid #2C86D2;
+    
     }
     .menu,.logor {
         display: block;
