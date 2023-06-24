@@ -193,8 +193,8 @@ hr {
     color: #2C86D2;
 }
 .carre{
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border: 2px solid #2C86D2;
     margin: 2%;
 }
@@ -217,7 +217,7 @@ hr {
     flex-direction: row;
  }
  .font{
-    font-size: medium;
+    font-size: small;
  }
 @media only screen and (min-width:1000px) {
 
