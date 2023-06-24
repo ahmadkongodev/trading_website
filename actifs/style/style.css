@@ -193,8 +193,8 @@ hr {
     color: #2C86D2;
 }
 .carre{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border: 2px solid #2C86D2;
     margin: 2%;
 }
@@ -212,9 +212,12 @@ hr {
     border-bottom: 2px solid #2C86D2;
 }
 .all{
-    font-size: small;
+
     display: flex;
     flex-direction: row;
+ }
+ .font{
+    font-size: medium;
  }
 @media only screen and (min-width:1000px) {
 
