@@ -70,9 +70,8 @@ hr {
     width: 100%;
      background-color: black;
      color: white;
-    
-
-}
+     padding: 5%;
+ }
  
 
  
@@ -196,7 +195,7 @@ hr {
     width: 20px;
     height: 20px;
     border: 2px solid #2C86D2;
-    margin: 2%;
+    margin-top: 2%;
 }
 .colonne{
     display: flex;
@@ -215,10 +214,12 @@ hr {
 
     display: flex;
     flex-direction: row;
-    padding: 1%;
  }
  .font{
     font-size: small;
+ }
+ .marginLeft{
+    margin-left: 5%;
  }
 @media only screen and (min-width:1000px) {
 
