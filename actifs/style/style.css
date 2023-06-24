@@ -206,7 +206,11 @@ hr {
 .ligne{
     display: flex;
      color: white;
+
   }
+  .ligne:hover{
+    border-bottom: 2px solid #2C86D2;
+}
 .all{
     display: flex;
     flex-direction: row;
@@ -279,5 +283,8 @@ border-radius: 50px;
 
     .car {
         width: 100%;
+    }
+    .ligne:hover{
+        border-bottom: 2px solid #2C86D2;
     }
 }
